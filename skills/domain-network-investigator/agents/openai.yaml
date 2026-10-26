@@ -1,0 +1,6 @@
+interface:
+  display_name: "Команды, нейминги и SEO-сайты"
+  short_description: "Новые нейминги и SEO-сайты по отдельным командам"
+  default_prompt: "Используй $domain-network-investigator: продолжи поиск новых неймингов и SEO-сайтов команды по сохранённым и новым зацепкам; для новой ссылки без указания команды спроси, относится ли она к текущей команде или новой."
+policy:
+  allow_implicit_invocation: true
